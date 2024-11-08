@@ -24,3 +24,27 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWART
 NOT MALEWAR.FORUZSPD.COM..1995Y119989..-----PREMIERLEAGUEHAX.----ATUTENTIFICATION--------CODE
+ Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+ARROBACIONZK-------------------BINARIUSSSSSSS
+ 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111 01101111  0001111193837373637462
+ https://www.google.com/search?q=code+binarius&oq=code+binarius&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMzc5MGowajGoAgiwAgE&sourceid=chrome&ie=UTF-8
+ license.readmi.jupiter.notplayer.codebarre.@papastatopulos.com/readme/https://www.google.com/search?q=code+binarius&oq=code+binarius&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMzc5MGowajGoAgiwAgE&sourceid=chrome&ie=UTF-8
+ paypal/tarjet/arrobacionzk/player11/discord.----------------------sairemerycorfre.readme
+ skile.project.jairus.cairus.pronolopolitipearrobacionzq
